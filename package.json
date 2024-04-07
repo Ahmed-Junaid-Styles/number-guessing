@@ -1,6 +1,6 @@
 {
-  "name": "aj2006-number-guess",
-  "version": "2.0.1",
+  "name": "aj2006-latest-number-guessing",
+  "version": "1.0.0",
   "description": "Game based on guessing number",
   "main": "index.js",
   "type": "module",
