@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 const ans = await inquirer.prompt([
     { name: "guessed_number", type: "number", message: "Guess a number between 1-6: " }
